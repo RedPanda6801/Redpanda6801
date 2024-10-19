@@ -49,6 +49,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TS](https://img.shields.io/badge/Typecript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
